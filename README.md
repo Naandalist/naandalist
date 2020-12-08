@@ -4,7 +4,7 @@
 
 I'm Listiananda Apriliawan, a Junior Software Developer 🚀 from Indonesia, currently, I'm working in 🙍🏽‍♂️ [Oxy Creative](https://id.linkedin.com/company/oxy-creative-inc-). Beside's programming, I enjoy sleep and serious discussion.
 
-  <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ```javascript
 const naandalist = {
@@ -42,7 +42,7 @@ const naandalist = {
 
 <h4>My GitHub Stats:</h4>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=naandalist&show_icons=true&theme=cobalt&count_private=true" alt="naandalist" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=naandalist&show_icons=true&theme=cobalt" alt="naandalist" />
 
 
 
