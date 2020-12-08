@@ -6,16 +6,27 @@ I'm Listiananda Apriliawan, a Junior Software Developer 🚀 from Indonesia, cur
 
   <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-```
-- Currently working with React Native;
-- Currently learning PHP Laravel; 
-- Love modern, beautiful visual design;
-- Feel free to ask me anything, I am happy to help;
+```javascript
+const naandalist = {
+  age: function(birthYear = 1996){
+    const thisYear = 2020;
+    return thisYear - birthYear;
+  } ,
+  pronouns: "he" | "him",
+  code: ['Javascript', 'PHP', 'HTML', 'CSS', 'SQL'],
+  tools: ['React', 'Redux', 'NodeJs', 'Vue', 'Jest',],
+  architecture: ["MVC", "event-driven",],
+  "working with": "Currently working with React native ",
+  "learning with": "Currently learning with Laravel"
+  challenge: "Learn New Thing Everyday!",
+  messages: "Feel free to ask me anything, I am happy to help"
+}
 ```
 
 <br />
 
-**Things I code with:**
+<h4>Things to Code With:</h4>
+
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -29,11 +40,13 @@ I'm Listiananda Apriliawan, a Junior Software Developer 🚀 from Indonesia, cur
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-**My GitHub Stats:**
+<h4>My GitHub Stats:</h4>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=naandalist&show_icons=true&theme=cobalt&count_private=true" alt="naandalist-stats" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=naandalist&show_icons=true&theme=cobalt&count_private=true" alt="naandalist" />
 
-**Be Social With Me:**
+
+
+<h4>Be Social With Me:</h4>
 
 
 <a href="https://twitter.com/alistiananda">
