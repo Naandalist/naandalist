@@ -4,7 +4,7 @@
 
 I'm Listiananda Apriliawan, a Junior Software Developer 🚀 from Indonesia, currently, I'm working in 🙍🏽‍♂️ [Oxy Creative](https://id.linkedin.com/company/oxy-creative-inc-). Beside's programming, I enjoy sleep and serious discussion.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ```
 - Currently working with React Native;
@@ -16,7 +16,7 @@ I'm Listiananda Apriliawan, a Junior Software Developer 🚀 from Indonesia, cur
 <br />
 
 **Things I code with:**
-<p>
+<p align="left">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
@@ -31,7 +31,7 @@ I'm Listiananda Apriliawan, a Junior Software Developer 🚀 from Indonesia, cur
 
 **My GitHub Stats:**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=naandalist&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=naandalist&show_icons=true&theme=cobalt&count_private=true" alt="naandalist-stats" />
 
 **Be Social With Me:**
 
