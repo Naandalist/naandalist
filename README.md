@@ -12,8 +12,8 @@ const naandalist = {
     return thisYear - birthYear;
   } ,
   pronouns: "he" | "him",
-  code: ['Javascript', 'PHP', 'HTML', 'CSS', 'SQL'],
-  tools: ['React', 'Redux', 'NodeJs', 'Vue', 'Jest',],
+  code: ['Javascript', ,'NodeJs', 'PHP', 'HTML', 'CSS', 'SQL'],
+  tools: ['React', 'React Native', 'Redux', 'Laravel', 'Vue', 'Jest',],
   architecture: ["MVC", "event-driven",],
   "working with": "Currently working with React native ",
   "learning with": "Currently learning with Laravel"
@@ -41,7 +41,7 @@ const naandalist = {
 
 <h4>My GitHub Stats:</h4>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=naandalist&show_icons=true&theme=cobalt" alt="naandalist" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=naandalist&count_private=true&show_icons=true&theme=cobalt" alt="naandalist" />
 </p>
 
 
