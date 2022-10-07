@@ -18,14 +18,3 @@ I'm Nanda, a Junior Software Developer 🚀 from Indonesia. Currently, I try to 
   <br>
 </p>
 
-
-<h4>Be Social With Me:</h4>
-
-<br>
-
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow naandalist on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/listiananda-apriliawan/)
-
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow naandalist on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/naandalist)
-
-
-
