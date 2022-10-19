@@ -1,11 +1,21 @@
 [![@naandalist's Holopin board](https://holopin.io/api/user/board?user=naandalist)](https://holopin.io/@naandalist)
 
-### Hello people <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### Hello people, have a great day! 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=naandalist.naandalist)
 
-I'm Nanda, a Junior Software Developer from Indonesia. I will never create a harmful code. Fearlessly to improve my creation at every opportunity. I will not degrade them. I do continuously ensure that others can cover for me, and that i can cover for them. I will never stop learning and improving my craft. 😄
 
+### In order to defend and preserve the honor of the profession of computer programmers, I promise that, to the best of my ability and judgement that: 
+
+- I will not produce harmful code.
+- The code that I produce will always be my best work. I will not knowingly allow code that is defective either in behavior or structure to accumulate
+- I will fearlessly and relentlessly improve my creations at every opportunity. I will never degrade them.
+- I will do all that I can to keep the productivity of myself and others as high as possible. I will do nothing that decreases that productivity.
+- I will continuously ensure that others can cover for me, and that I can cover for them.
+- I will produce estimates that are honest both in magnitude and precision. I will not make a promise without certainty.
+- I will never stop learning and improving my code.
 
 <p align="left">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=naandalist&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
