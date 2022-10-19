@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Hello people, have a great day! 
+### Hello people, Peace be upon you. Assalamu'alaikum. 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=naandalist.naandalist)
 
