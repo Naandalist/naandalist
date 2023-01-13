@@ -1,13 +1,14 @@
+
+
 [![@naandalist's Holopin board](https://holopin.io/api/user/board?user=naandalist)](https://holopin.io/@naandalist)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Hello people, Peace be upon you. Assalamu'alaikum. 
+### Hello people, Peace be upon you. Assalamu'alaikum.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=naandalist.naandalist)
 
-
-### In order to defend and preserve the honor of the profession of computer programmers, I promise that, to the best of my ability and judgement that: 
+### In order to defend and preserve the honor of the profession of computer programmers, I promise that, to the best of my ability and judgement that:
 
 - I will not produce harmful code.
 - The code that I produce will always be my best work. I will not knowingly allow code that is defective either in behavior or structure to accumulate
@@ -17,8 +18,11 @@
 - I will produce estimates that are honest both in magnitude and precision. I will not make a promise without certainty.
 - I will never stop learning and improving my code.
 
+<br/>
+
 <p align="left">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=naandalist&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php,html">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=naandalist&theme=dark&hide_border=true&background=00000000">
   <br>
 </p>
-
