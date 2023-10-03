@@ -1,3 +1,10 @@
+<p align="left">
+  <a href="https://app.daily.dev/Naandalist"><img src="https://api.daily.dev/devcards/888a5528a7574d828b54208aefeb8c7a.png?r=nxu" width="200" alt="Listiananda Apriliawan's Dev Card"/></a>
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php,html">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=naandalist&theme=dark&hide_border=true&background=00000000">
+  <br>
+</p>
+
 [![@naandalist's Holopin board](https://holopin.io/api/user/board?user=naandalist)](https://holopin.io/@naandalist)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
