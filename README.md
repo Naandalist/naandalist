@@ -1,26 +1,17 @@
-
+# Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![@naandalist's Holopin board](https://holopin.io/api/user/board?user=naandalist)](https://holopin.io/@naandalist)
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### I am a Frontend Developer at [AIA Singapore]('https://www.aia.com.sg/).
 
-### Hello people, Peace be upon you. Assalamu'alaikum.
+Recently, I registered as Analyst/Engineer for AIA eBenefit, a mobile app available for [`iOS`](https://apps.apple.com/sg/app/aia-ebenefits-app/id1523776118) and [`Android`](https://play.google.com/store/apps/details?id=com.aia.ebenefitsapp&hl=en_US). Written in latest [`React-Native`](https://reactnative.dev/blog), AIA eBenefit is already used by hundreds of thousands of people and has reached the top three in the [App Store](https://apps.apple.com/sg/charts/iphone/medical-apps/6020) medical category 😊. I do fix bugs, enhance features, and improve the app with developer team based on user feedback.
 
-![](https://visitor-badge.glitch.me/badge?page_id=naandalist.naandalist)
+As a JavaScript enthusiast 🚀, I am excited about the many frameworks and libraries available that allow us to explore and learn new things. I am particularly excited about the latest version of NextJS, which supports full-stack development.
 
-### In order to defend and preserve the honor of the profession of computer programmers, I promise that, to the best of my ability and judgement that:
+## Tech Experience
 
-- I will not produce harmful code.
-- The code that I produce will always be my best work. I will not knowingly allow code that is defective either in behavior or structure to accumulate
-- I will fearlessly and relentlessly improve my creations at every opportunity. I will never degrade them.
-- I will do all that I can to keep the productivity of myself and others as high as possible. I will do nothing that decreases that productivity.
-- I will continuously ensure that others can cover for me, and that I can cover for them.
-- I will produce estimates that are honest both in magnitude and precision. I will not make a promise without certainty.
-- I will never stop learning and improving my code.
+![My Skills](https://skillicons.dev/icons?i=js,figma,mongo,ts,nodejs,tailwind,react,next,git,github)
 
-<br/>
+---
 
-<p align="left">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=naandalist&theme=dark&hide_border=true&background=00000000">
-  <br>
-</p>
+© 2023 — Listiananda Apriliawan
