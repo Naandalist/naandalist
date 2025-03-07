@@ -10,4 +10,4 @@ You can find my `Stack Overflow` account [here](https://stackoverflow.com/users/
 
 ![My Skills](https://skillicons.dev/icons?i=js,figma,mongo,ts,nodejs,vscode,tailwind,react,next,github,azure,gitlab)
 
-© 2023 — Listiananda Apriliawan
+© 2025 — Listiananda Apriliawan
