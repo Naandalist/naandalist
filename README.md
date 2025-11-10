@@ -1,8 +1,8 @@
 # Hey there, 😀
 
-I am excited about the many frameworks and libraries available that allow us to explore and learn new things 🔥. I'm also passionate about the helping each other culture of `Stack Overflow`, where developers from all over the world share their knowledge and experiences ⭐. I believe the platform has helped countless people over time, and I am proud to be a part of it 👏.
+I build web and mobile products with React Native, Next.js, Node.js and Laravel. I enthusiast on practical security, performance, and streamlined developer workflows. I ship tools and apps aimed at production use, not just demo-ware.
 
-You can find my `Stack Overflow` account [here](https://stackoverflow.com/users/13633973/naandalist).
+I also share solutions as an active Stack Overflow contributor to help fix problems instead of just scrolling past them. Find my profile [here](https://stackoverflow.com/users/13633973/naandalist).
 
 ## My Coding Activity
 
@@ -10,6 +10,6 @@ You can find my `Stack Overflow` account [here](https://stackoverflow.com/users/
 
 ## Tech Experiences
 
-![My Skills](https://skillicons.dev/icons?i=js,figma,mongo,ts,nodejs,vscode,tailwind,react,next,github,azure,gitlab)
+![My Skills](https://skillicons.dev/icons?i=js,bun,laravel,mongo,ts,nodejs,vscode,tailwind,react,next,github,azure,gitlab)
 
 © 2025 — Nanda
