@@ -4,9 +4,10 @@ I build web and mobile products with React Native, Next.js, and Node.js. I care 
 
 I also share solutions as an active Stack Overflow contributor to help fix problems instead of just scrolling past them. Find my profile [here](https://stackoverflow.com/users/13633973/naandalist).
 
-## My Coding Stats
+## My Coding Activity
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naandalist&theme=nord&show_icons=false)
+![Nanda Coding Activity](https://github-readme-stats.hackclub.dev/api/wakatime?username=3370&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=nord
+)
 
 ## Tech Experiences
 
