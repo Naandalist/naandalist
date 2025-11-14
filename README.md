@@ -13,4 +13,4 @@ I also share solutions as an active Stack Overflow contributor to help fix probl
 
 ![My Skills](https://skillicons.dev/icons?i=js,bun,laravel,mongo,ts,nodejs,vscode,tailwind,react,next,github,azure,gitlab)
 
-© 2025 — Nanda
+© 2025 — [Nanda](https://www.naandalist.com/)
