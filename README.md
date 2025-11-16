@@ -11,6 +11,6 @@ I also share solutions as an active Stack Overflow contributor to help fix probl
 
 ## Tech Experiences
 
-![My Skills](https://skillicons.dev/icons?i=js,bun,laravel,mongo,ts,nodejs,vscode,tailwind,react,next,github,azure,gitlab)
+![My Skills](https://skillicons.dev/icons?i=js,bun,laravel,ts,npm,nodejs,tailwind,react,redux,next,gitlab,vscode)
 
 © 2025 — [Nanda](https://www.naandalist.com/)
