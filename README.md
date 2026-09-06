@@ -2,7 +2,7 @@
 
 Frontend engineer with 6+ years shipping web and cross-platform mobile products. React Native for the apps people open every day, Next.js for the web surfaces around them, TypeScript in both.
 
-Most of the work that matters happens after launch: tracing a production issue to the actual cause, closing the security hole that showed up in the wild, tightening CI so a release does not depend on tribal knowledge. I would rather ship something ordinary that stays up than something clever that only works in a demo.
+Most of the work that matters happens after launch. Tracing a production issue to the actual cause, fixing the vulnerability that showed up in the wild, tightening CI so a release does not depend on undocumented knowledge. I would rather ship something ordinary that stays up than something clever that only works in a demo.
 
 Everything else is on [naandalist.com](https://naandalist.com/).
 
