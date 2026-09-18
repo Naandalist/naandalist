@@ -8,7 +8,8 @@ Everything else is on [naandalist.com](https://naandalist.com/).
 
 ## My Coding Activity
 
-![Nanda Coding Activity](https://github-readme-stats.hackclub.dev/api/wakatime?username=3370&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=nord)
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
 
 ## Tech Experiences
 
