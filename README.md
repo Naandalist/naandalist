@@ -13,11 +13,20 @@ Everything else is on [naandalist.com](https://naandalist.com/).
 <!--START_SECTION:wakatime-->
 
 ```typescript
-From: 28 October 2026 - To: 04 November 2026
+All Time - Updated: 04 November 2026
 
-Total Time: 0 hrs 0 mins
+Total Time: 767 hrs 7 mins
 
-No activity tracked
+TypeScript        485 hrs 43 mins   ███████████████▓░░░░░░░░░   63.32 %
+JSON              77 hrs 36 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+Other             73 hrs 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+Markdown          66 hrs 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+JavaScript        56 hrs 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+YAML              36 hrs 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Astro             25 hrs 24 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Groovy            19 hrs 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Java Properties   11 hrs 43 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+JSX               11 hrs 41 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:wakatime-->
