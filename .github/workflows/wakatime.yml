@@ -13,7 +13,8 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Hackatime API key
+          API_BASE_URL: https://hackatime.hackclub.com/api/hackatime
           SHOW_TITLE: true
           SECTION_NAME: wakatime
           SHOW_TIME: true
@@ -21,7 +22,7 @@ jobs:
           SHOW_MASKED_TIME: false
           LANG_COUNT: 10
           CODE_LANG: typescript
-          TIME_RANGE: all_time
+          TIME_RANGE: last_7_days # Hackatime only supports last_7_days
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: main
           TARGET_PATH: README.md
