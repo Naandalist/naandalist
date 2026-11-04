@@ -15,14 +15,14 @@ Everything else is on [naandalist.com](https://naandalist.com/).
 ```typescript
 Last 7 Days - Updated: 04 November 2026
 
-Total Time: 3 hrs 19 mins
+Total Time: 3 hrs 21 mins
 
-Other             3 hrs 11 mins     ████████████████████████░   96.06 %
-Markdown          17 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-XML               9 mins            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Gettext Catalog   7 mins            █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Python            4 mins            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Rust              0 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TypeScript        3 hrs 13 mins     ████████████████████████░   96.10 %
+Markdown          17 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+XML               9 mins            █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Gettext Catalog   7 mins            █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Python            4 mins            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Rust              0 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Ignore List       0 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
