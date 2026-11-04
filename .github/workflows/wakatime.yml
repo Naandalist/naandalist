@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   update-readme:
-    name: Hackatime Dev Metrics Update (all time)
+    name: Hackatime Dev Metrics Update (last 7 days)
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v5
@@ -20,13 +20,14 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Update README with all-time Hackatime stats
+      - name: Update README with last 7 days of Hackatime stats
         env:
           HACKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Hackatime API key
           HACKATIME_USERNAME: Huruhara
           SECTION_NAME: wakatime
           CODE_LANG: typescript
           LANG_COUNT: 10
+          DAYS: 7
           TARGET_PATH: README.md
         run: python .github/scripts/hackatime_readme.py
 

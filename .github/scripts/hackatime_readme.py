@@ -1,4 +1,4 @@
-"""Update the README wakatime section with all-time Hackatime stats.
+"""Update the README wakatime section with the last 7 days of Hackatime stats.
 
 Output mimics athul/waka-readme so the README looks the same.
 """
@@ -7,6 +7,7 @@ import json
 import os
 import re
 import sys
+import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
 
@@ -18,13 +19,19 @@ CODE_LANG = os.environ.get("CODE_LANG", "typescript")
 LANG_COUNT = int(os.environ.get("LANG_COUNT", "10"))
 BLOCKS = os.environ.get("BLOCKS", "░▒▓█")
 GRAPH_LEN = 25
+DAYS = int(os.environ.get("DAYS", "7"))
 
 
 def fetch_stats():
-    url = (
-        f"https://hackatime.hackclub.com/api/v1/users/{USERNAME}/stats"
-        f"?features=languages&limit={LANG_COUNT}"
-    )
+    end = datetime.now(timezone.utc)
+    start = end - timedelta(days=DAYS)
+    query = urllib.parse.urlencode({
+        "features": "languages",
+        "limit": LANG_COUNT,
+        "start_date": start.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "end_date": end.strftime("%Y-%m-%dT%H:%M:%SZ"),
+    })
+    url = f"https://hackatime.hackclub.com/api/v1/users/{USERNAME}/stats?{query}"
     req = urllib.request.Request(url, headers={"User-Agent": "naandalist-readme"})
     if API_KEY:
         token = base64.b64encode(API_KEY.encode()).decode()
@@ -58,7 +65,7 @@ def graph(percent):
 def build(stats):
     now = datetime.now(timezone(timedelta(hours=7)))
     lines = [
-        f"All Time - Updated: {now.strftime('%d %B %Y')}",
+        f"Last {DAYS} Days - Updated: {now.strftime('%d %B %Y')}",
         "",
         f"Total Time: {human(stats.get('total_seconds', 0))}",
         "",
