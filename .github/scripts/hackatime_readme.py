@@ -27,7 +27,6 @@ def fetch_stats():
     start = end - timedelta(days=DAYS)
     query = urllib.parse.urlencode({
         "features": "languages",
-        "limit": LANG_COUNT,
         "start_date": start.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "end_date": end.strftime("%Y-%m-%dT%H:%M:%SZ"),
     })
@@ -62,6 +61,21 @@ def graph(percent):
     return bar + BLOCKS[0] * (GRAPH_LEN - len(bar))
 
 
+def rename_other(langs):
+    """Show "Other" as TypeScript, or JavaScript if TypeScript is already listed.
+
+    When both are already listed, "Other" stays as it is.
+    """
+    names = {l["name"].lower() for l in langs}
+    for candidate in ("TypeScript", "JavaScript"):
+        if candidate.lower() not in names:
+            for l in langs:
+                if l["name"] == "Other":
+                    l["name"] = candidate
+            break
+    return langs
+
+
 def build(stats):
     now = datetime.now(timezone(timedelta(hours=7)))
     lines = [
@@ -70,7 +84,7 @@ def build(stats):
         f"Total Time: {human(stats.get('total_seconds', 0))}",
         "",
     ]
-    langs = (stats.get("languages") or [])[:LANG_COUNT]
+    langs = rename_other(stats.get("languages") or [])[:LANG_COUNT]
     if not langs:
         lines.append("No activity tracked")
         return "\n".join(lines)
