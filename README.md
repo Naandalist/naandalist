@@ -15,17 +15,17 @@ Everything else is on [naandalist.com](https://naandalist.com/).
 ```typescript
 All Time - Updated: 04 November 2026
 
-Total Time: 767 hrs 7 mins
+Total Time: 770 hrs 10 mins
 
-TypeScript        485 hrs 43 mins   ███████████████▓░░░░░░░░░   63.32 %
-JSON              77 hrs 36 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Other             73 hrs 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-Markdown          66 hrs 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-JavaScript        56 hrs 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-YAML              36 hrs 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-Astro             25 hrs 24 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Groovy            19 hrs 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Java Properties   11 hrs 43 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+TypeScript        485 hrs 43 mins   ███████████████▓░░░░░░░░░   63.07 %
+JSON              77 hrs 36 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+Other             76 hrs 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+Markdown          66 hrs 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+JavaScript        56 hrs 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+YAML              36 hrs 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Astro             25 hrs 24 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Groovy            19 hrs 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Java Properties   11 hrs 43 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 JSX               11 hrs 41 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
