@@ -15,18 +15,18 @@ Everything else is on [naandalist.com](https://naandalist.com/).
 ```typescript
 Last 7 Days - Updated: 14 November 2026
 
-Total Time: 29 hrs 19 mins
+Total Time: 30 hrs 24 mins
 
-Other        23 hrs 33 mins    ████████████████████░░░░░   80.35 %
-TypeScript   3 hrs 15 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-Astro        1 hr 56 mins      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Markdown     1 hr 26 mins      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-JSON         42 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-CSS          35 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Python       32 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-JavaScript   26 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-HTML         14 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Shell        13 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Other        24 hrs 37 mins    ████████████████████▒░░░░   80.96 %
+TypeScript   3 hrs 10 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+Astro        1 hr 56 mins      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Markdown     1 hr 30 mins      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+JSON         42 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Python       38 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+CSS          35 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+JavaScript   26 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+HTML         11 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Shell        11 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:wakatime-->
