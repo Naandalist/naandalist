@@ -15,18 +15,18 @@ Everything else is on [naandalist.com](https://naandalist.com/).
 ```typescript
 Last 7 Days - Updated: 18 November 2026
 
-Total Time: 32 hrs 34 mins
+Total Time: 31 hrs 35 mins
 
-Other        24 hrs 29 mins    ██████████████████▓░░░░░░   75.17 %
-TypeScript   5 hrs 2 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
-Markdown     1 hr 55 mins      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-Kotlin       1 hr 14 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-XML          53 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Python       47 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-CSS          43 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Astro        33 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-HTML         26 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-JavaScript   24 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Other        24 hrs 33 mins    ███████████████████▒░░░░░   77.78 %
+TypeScript   4 hrs 6 mins      ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Markdown     1 hr 53 mins      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Kotlin       1 hr 16 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+XML          53 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Python       51 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+HTML         42 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+JSON         30 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+JavaScript   27 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+CSS          25 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:wakatime-->
